@@ -13,4 +13,4 @@ title: '**Infraestructura de carga para vehículos eléctricos y alternativos en
 
 #### <br> - https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations/data <br> 
 
-![<br> Centro de Carga](C:/Users/Javier/Pictures/Centro de Recarga Tesla.jpg)
+![<br> Centro de Carga](C:/Users/Javier/Desktop/JavierT22.github.io/Centro de Recarga Tesla.jpg)
