@@ -4,4 +4,6 @@ title: "Infraestructura de carga para vehículos eléctricos y alternativos en E
 
 # Planteamineto del Problema:
 
-# “El rápido avance de la electromovilidad en EEUU y Canada hasta 2035, revela brechas de acceso, planificación y estabilidad en la infraestructura de carga debido al aumento de EVs. Zonas rurales y suburbana enfrentan mayores desafíos al momento de recargar con combustibles  alternativos, en síntesis este es el punto crítico para descarbonizar el transporte”.  
+
+
+### “El rápido avance de la electromovilidad en EEUU y Canada hasta 2035, revela brechas de acceso, planificación y estabilidad en la infraestructura de carga debido al aumento de EVs. Zonas rurales y suburbana enfrentan mayores desafíos al momento de recargar con combustibles  alternativos, en síntesis este es el punto crítico para descarbonizar el transporte”.  
