@@ -3,7 +3,7 @@ title: '**Infraestructura de carga para vehículos eléctricos y alternativos en
   UU. y Canadá**'
 ---
 
-# <br> Planteamineto del Problema:
+# <br> Planteamiento del Problema:
 
 <div style="text-align: justify;">
 
