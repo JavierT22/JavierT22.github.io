@@ -1,0 +1,96 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Infraestructura de carga para vehículos eléctricos y alternativos en EE. UU. y Canadá},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{\textbf{Infraestructura de carga para vehículos eléctricos y
+alternativos en EE. UU. y Canadá}}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+\section{\texorpdfstring{ Planteamineto del
+Problema:}{  Planteamineto del Problema:}}\label{planteamineto-del-problema}
+
+\subsubsection{\texorpdfstring{ ``El rápido avance de la
+electromovilidad en EEUU y Canada hasta 2035, revela brechas de acceso,
+planificación y estabilidad en la infraestructura de carga debido al
+aumento de EVs. Zonas rurales y suburbana enfrentan mayores desafíos al
+momento de recargar con combustibles alternativos, en síntesis este es
+el punto crítico para descarbonizar el
+transporte''.}{  ``El rápido avance de la electromovilidad en EEUU y Canada hasta 2035, revela brechas de acceso, planificación y estabilidad en la infraestructura de carga debido al aumento de EVs. Zonas rurales y suburbana enfrentan mayores desafíos al momento de recargar con combustibles alternativos, en síntesis este es el punto crítico para descarbonizar el transporte''.}}\label{el-ruxe1pido-avance-de-la-electromovilidad-en-eeuu-y-canada-hasta-2035-revela-brechas-de-acceso-planificaciuxf3n-y-estabilidad-en-la-infraestructura-de-carga-debido-al-aumento-de-evs.-zonas-rurales-y-suburbana-enfrentan-mayores-desafuxedos-al-momento-de-recargar-con-combustibles-alternativos-en-suxedntesis-este-es-el-punto-cruxedtico-para-descarbonizar-el-transporte.}
+
+\paragraph{\texorpdfstring{ -
+\url{https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations/data}}{  - https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations/data}}\label{httpswww.kaggle.comdatasetssaketpradhanelectric-and-alternative-fuel-charging-stationsdata}
+
+\begin{figure}
+\centering
+\includegraphics{C:/Users/Javier/Pictures/Centro de Recarga Tesla.jpg}
+\caption{Centro de Carga}
+\end{figure}
+
+\end{document}
